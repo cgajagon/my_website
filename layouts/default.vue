@@ -17,7 +17,7 @@
 
 <style>
 #app {
-  background: url('/flying_landscape.jpg')
+  background: url('~assets/flying_landscape.jpg')
     no-repeat center center;
   background-size: cover;
   }
